@@ -1,16 +1,21 @@
-# Repository-of-Kylis
+TOS0100 Kurssin harjoitustyö HT0
 
-![](http://r.ddmcdn.com/s_f/o_1/cx_462/cy_245/cw_1349/ch_1349/w_720/APL/uploads/2015/06/caturday-shutterstock_149320799.jpg)
-
-| KISSA | KISSA |
-
-| asd | 2002 |
-
-| asd | 1903 |
-
-##Alaotsikko
-
-### Alaotsikko
+Tämä on harjoitustyön etusivu
 
 
-[Google](https://www.google.fi/)
+
+# XXXX-palvelun vaatimusmäärittely
+
+
+![](https://openclipart.org/image/300px/svg_to_png/38449/58294main-The.Brain.in.Space-page-111-experiment-3d-2.png&disposition=attachment)
+
+
+### Tiedot
+
+* Nimimerkki
+* Versionumero X.Y.Z
+* [Linkki vaatimusmäärittelyyn](https://github.com/JAMK-IT/TTOS0100-Ohjelmistosuunnittelu-ja-testaus/blob/master/pohja-vaatimusmaarittely.md)
+
+
+
+
